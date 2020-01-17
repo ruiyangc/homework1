@@ -1,0 +1,10 @@
+img{
+    height: 150px;
+}
+p{ /* limite the length of the paragraph so that thw page will look "exactly" like the sample:) */
+	max-width: 970px;
+	min-width: 300px;
+}
+header{ /* have indentzation for header so that thw page will look "exactly" like the sample without the <ol> tag */
+	text-indent: 2.5em;
+}
